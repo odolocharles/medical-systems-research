@@ -7,3 +7,21 @@
 [submodule "openice"]
 	path = openice
 	url = https://github.com/odolocharles/mdpnp
+[submodule "emr/openmrs"]
+	path = emr/openmrs
+	url = https://github.com/odolocharles/openmrs-core
+[submodule "emr/openemr"]
+	path = emr/openemr
+	url = https://github.com/odolocharles/openemr
+[submodule "imaging/ohif"]
+	path = imaging/ohif
+	url = https://github.com/odolocharles/Viewers
+[submodule "icu/openice"]
+	path = icu/openice
+	url = https://github.com/odolocharles/mdpnp
+[submodule "interoperability/mirth"]
+	path = interoperability/mirth
+	url = https://github.com/odolocharles/connect
+[submodule "ai/monai"]
+	path = ai/monai
+	url = https://github.com/odolocharles/MONAI
