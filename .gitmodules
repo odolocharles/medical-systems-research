@@ -1,0 +1,6 @@
+[submodule "slicer"]
+	path = slicer
+	url = https://github.com/odolocharles/Slicer
+[submodule "openmrs"]
+	path = openmrs
+	url = https://github.com/odolocharles/openmrs-core
