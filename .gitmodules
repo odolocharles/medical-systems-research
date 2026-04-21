@@ -4,3 +4,6 @@
 [submodule "openmrs"]
 	path = openmrs
 	url = https://github.com/odolocharles/openmrs-core
+[submodule "openice"]
+	path = openice
+	url = https://github.com/odolocharles/mdpnp
